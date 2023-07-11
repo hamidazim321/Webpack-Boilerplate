@@ -1,11 +1,11 @@
 import _ from 'lodash'
 import './style.css'
-import Headshot from'./HeadShot.jpg'
+import Car from'./car-desktop.jpg'
 function component() {
   const element = document.createElement('img');
 
   // Lodash, now imported by this script
-  element.src = Headshot
+  element.src = Car
 
   return element;
 }
