@@ -1,6 +1,6 @@
 import _ from 'lodash'
 import './style.css'
-import Headshot from'./Headshot.jpg'
+import Headshot from'./HeadShot.jpg'
 function component() {
   const element = document.createElement('img');
 
